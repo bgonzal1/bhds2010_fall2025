@@ -4,3 +4,5 @@ happy <- read.csv("BookHappiness.csv", header=TRUE)
 
 table(happy$book) 
 #there are 10 who read book 1 and 10 that read book 2
+
+#I am going to include this comment to check
